@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Simramary</h1>
-<h3 align="center">pursuing masters in Mathematics</h3>
+<h1 align="center">Hello there 👋, I'm Simramary</h1>
+<h3 align="center">MSc Mathematics</h3>
 
 - 🌱 I’m currently learning **Python, Data science**
 
